@@ -1,2 +1,2 @@
-# SQL-queries
-A collection of SQL queries and scripts for data analysis, database management, and common SQL tasks across various database systems.
+# SQL-portfolio
+Complex SQL queries showcasing joins, subqueries, CTEs, and Tableau visualization links.
