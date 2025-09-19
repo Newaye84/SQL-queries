@@ -11,15 +11,15 @@ In which countries are Rockbuster’s customers based?
 Where are customers with a high lifetime value located?
 What movie genres generate the most revenue?
 
-#Systems Used
+# Systems Used
 pgAdmin4: For managing PostgreSQL databases.
 PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
 Tableau Public: Platform for creating and sharing interactive data visualizations.
 
-#Data Overview
+# Data Overview
 The dataset includes comprehensive information on Rockbuster’s film inventory, customer profiles, and payment transactions.
 
-#Key data points encompass:
+# Key data points encompass:
 Film Inventory: Details about available movies, genres, and rental durations.
 Customer Information: Data on customer demographics and rental behavior.
 Payments: Records of transactions and revenue details.
